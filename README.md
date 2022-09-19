@@ -22,7 +22,7 @@ On Windows, the `pip` command doesn't just work---you need to add the `...\local
 The good news is that the ANTLR4 Python tool downloads the ANTLR jar in a standard location, and you don't need to do that manually. It's also possible to go in a browser, go to python.org, and download the python package. But, it's likely you will need to update the path for antlr4.exe as before.
 
 ## How to run. Commands:
-###In example folder run this commands
+### In example folder run this commands
 
 >class
 
